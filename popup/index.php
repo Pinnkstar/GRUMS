@@ -1,11 +1,12 @@
 <?php
-/* plugin Name: WordPress PopUp Plugin 
-*Plugin URI: http://monikasls.com/
-*Description: This is a WordPress PopUp Plugin based on HTML5, CSS, JS and PHP
-*Version: 0.6.0
-*Author: Monika Sliesaravicute
-*Author: http://monikasls.com/
-*Licence: GPL2
+/* 
+Plugin Name: WordPress PopUp Plugin 
+Plugin URI: http://monikasls.com/
+Description: This is a WordPress PopUp Plugin based on HTML5, CSS, JS and PHP
+Version: 0.6.0
+Author: Monika Sliesaravicute
+Author: http://monikasls.com/
+Licence: GPL2
 */
 function plugin()
 {
